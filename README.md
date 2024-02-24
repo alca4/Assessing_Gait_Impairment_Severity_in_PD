@@ -6,8 +6,8 @@ Parkinson’s disease (PD), a neurodegenerative disorder, significantly impacts 
 
 This framework includes
 
-1. [Extract 3D skeleton from videos via [VIBE](https://github.com/mkocabas/VIBE)
-2. [Extract silhouettes from videos via [All-in-One-Gait](https://github.com/jdyjjj/All-in-One-Gait)
+1. Extract 3D skeleton from videos via [VIBE](https://github.com/mkocabas/VIBE).
+2. Extract silhouettes from videos via [All-in-One-Gait](https://github.com/jdyjjj/All-in-One-Gait).
 3. Form long-term gait energy images (LT-GEI) from silhouettes.
 4. Extract spatial-temporal features from 3D skeleton via DD-Net.
 5. Extract spatial-temporal features from LT-GEI via VGG16.
