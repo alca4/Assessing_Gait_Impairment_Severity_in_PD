@@ -10,8 +10,9 @@ This framework includes
 2. Extract silhouettes from videos via [All-in-One-Gait](https://github.com/jdyjjj/All-in-One-Gait).
 3. Form long-term gait energy images (LT-GEI) from silhouettes.
 4. Extract spatial-temporal features from 3D skeleton via DD-Net.
-5. Extract spatial-temporal features from LT-GEI via VGG16.
-6. Predict PD categories by merging features from skeleton and silhouettes.
-7. Create saliency maps to highlight the key body regions that mostly influence model decisions.
-8. Create the gait features to provide continuous measurement.
+5. Extract spatial-temporal features from LT-GEI via VGG16 (pd_VGG.py).
+6. Predict PD categories by merging features from skeleton and silhouettes (pd_2s_STNN.py).
+7. Create saliency maps to highlight the key body regions that mostly influence model decisions (pd_saliency.py).
+8. Create the gait features to provide continuous measurement (pd_feature_analysis.py).
+
 
