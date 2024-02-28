@@ -15,4 +15,6 @@ This framework includes
 7. Create saliency maps to highlight the key body regions that mostly influence model decisions (pd_saliency.py).
 8. Create the gait features to provide continuous measurement (pd_feature_analysis.py).
 
+The paper corresponding to this project is https://drive.google.com/file/d/16XCLalNp4HXIwj2P-JtBid2o4t3tpC3W/view.
+
 
