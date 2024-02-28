@@ -1,4 +1,4 @@
-# PD-Project
+# Assessing Gait Impairment Severity in Parkinson's Disease
 
 This repository is the implementation of Assessing Gait Dysfunction Severity in Parkinson’s Disease Using 2-Stream Spatial-Temporal Neural Network by Andrew Liang.
 
